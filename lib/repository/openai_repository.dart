@@ -4,6 +4,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 import 'package:open_ai_chat_gpt/api_constants.dart';
+import 'package:open_ai_chat_gpt/secrets.dart';
 
 
 class OpenAiRepository {
